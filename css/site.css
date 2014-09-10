@@ -14,7 +14,7 @@ body
 
 .top
 {
-	background-image: url("wire_darkred.png");
+	background-image: url("/images/wire_darkred.png");
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
@@ -23,7 +23,7 @@ body
 
 .content
 {
-  background-image: url("wire_light.png");
+  background-image: url("/images/wire_light.png");
   padding: 20px;
   color: black;
   font-family: Garamond, Georgia, serif;

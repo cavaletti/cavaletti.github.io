@@ -1,0 +1,23 @@
+<header class="site-header">
+
+<div class="barra_1">
+</div>
+
+<div class="top">
+</div>
+
+<div class="menu">
+  <span class="menu_align">
+    {% for i in site.pages %}
+       {% if i.title %}
+         {% if i.url != page.url %}
+           <a href="{{ i.url }}"> {{ i.title }} </a>
+         {% else %}
+           <span class="disabled_link"> {{ i.title }} </span>
+         {% endif %}
+       {% endif %}
+    {% endfor %}
+  </span>
+</div>
+
+</header>

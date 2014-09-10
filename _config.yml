@@ -1,0 +1,12 @@
+# Site settings
+title: Cavaletti - Soluções em Engenharia
+email: cavaletti@cavalettiengenharia.com.br
+description: Página da Cavaletti - Soluções em Engenharia
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cavalettiengenharia.com.br" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: cavaletti
+encoding: utf-8
+
+# Build settings
+markdown: kramdown

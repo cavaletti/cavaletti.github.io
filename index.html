@@ -1,99 +1,23 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html>
+---
+layout: default
+---
 
-<head>
-  <title>Cavaletti - Solu&ccedil;&otilde;es em Engenharia</title>
-  <link rel="stylesheet" href="estilo.css">
-  <link rel="stylesheet" href="estilo_menu.css">
-  <!--<link rel="shortcut icon" href="http://www.cavalettiengenharia.com.br/favicon.ico" type="image/x-icon"/>-->
-  <link rel="shortcut icon" href="c4.ico" type="image/x-icon"/>
-</head>
+<div class="home">
 
-<body>
-  <div class="barra_1">
-  </div>
-  
-  <div class="top">
-  </div>
+  <h1 class="page-heading">Posts</h1>
 
-  <div class="menu">
-    <span class="menu_align">
-        <span class="disabled_link"> apresentação </span>
-	    <a href="servicos.html"> serviços </a>
-	    <a href="portfolio.html"> portfólio</a>
-	    <a href="clientes.html"> clientes </a>
-	    <a href="downloads.html"> downloads </a>
-        <a href="contatos.html"> contatos </a>
-    </span>
-  </div>
-  
-  <!-- ================ content ================ -->
-  
-  <div class="content">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-    <h2>Apresenta&ccedil;&atilde;o</h2>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-	<p>A Cavaletti Engenharia &eacute; uma empresa criada com a finalidade de prestar consultoria,
-desenvolver e implementar solu&ccedil;&otilde;es em diversos segmentos da tecnologia e infra-estrutura,
-ofertando aos seus clientes <a href="servicos">serviços</a> com total qualidade,
-seguran&ccedil;a e otimiza&ccedil;&atilde;o de investimento.</p>
-	<br/>
-    <p>Nosso leque de atendimento ao mercado se estende desde a pessoa física a grandes corporações, com a mesma qualidade e imparcialidade.</p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-    <h2>Missão</h2>
-	
-    <p>Ser uma empresa de referência em serviços, soluções, projetos e gestão, com alta qualidade e foco no cliente e no mercado, possibilitando total integração do homem ao meio ambiente de tal forma que haja ganhos para todos.</p>
-
-	<h2>Visão</h2>
-    <p>Alcançar a liderança, respeito do mercado e expandir sua atuação mantendo, respeitando e disseminando os princípios da sustentabilidade. Agregando à humanidade melhores condições de vida e igualdade social</p>
-
-	<h2>Valores</h2>
-	<p>Nossos valores apóiam nossa Missão e Visão, sustentando nossos Princípios Empresariais assim como nossos Princípios de Conduta.</p>
-	<br/>
-	<p>Nossos valores são aquelas qualidades que nos distinguem, nos orientam e dão estímulos a nossas vidas.</p>
-	<br/>
-    <p>O Trabalho deixa de ser aquela atividade obrigatória e passa a ser o sentimento de bem servir aos outros e expor o melhor de nossos profissionais.</p>
-	<br/>
-    <p>A Responsabilidade Social nos permite manter o crescimento realizando nosso trabalho e cumprindo o acordo com nossos clientes e fornecedores, obedecendo à legislação vigente e a cuidar dos nossos recursos, sejam financeiros, humanos, materiais e ambientais.</p>
-	<br/>
-    <p>Manter Austeridade, otimizando recursos e eliminando desperdícios. Cuidar e utilizar de forma eficiente o que temos, gastar o necessário e eliminar o inútil ou o supérfulo.</p>
-
-  </div>
-  <!-- ================ content ================ -->
-  
-  <!-- ================ footer ================ -->
-  
-  <table class="footer">
-  <tr class="footer">
-    <td>
-      <span class="left">
-      </span>
-    </td>
-    <td>
-      <span class="right">
-		2009 &copy; Cavaletti Engenharia
-      </span>
-    </td>
-  </tr>
-  </table>
-  
-  <!-- ================ footer ================ -->
-  </div>
-  
-	<!-- =========== google analytics =========== -->
-	
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-    try {
-      var pageTracker = _gat._getTracker("UA-11763546-1");
-      pageTracker._trackPageview();
-    } catch(err) {}
-	</script>
-	
-	<!-- =========== google analytics =========== -->
-	
-</body>
-</html>
+</div>
