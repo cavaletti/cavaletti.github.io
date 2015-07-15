@@ -1,14 +1,14 @@
----
+﻿---
 layout: default
-title: apresentação
-permalink: /apresentacao/
+title: Empresa
+permalink: /1-Empresa/
 ---
 
 ## Apresentação
 
-A Cavaletti Engenharia é uma empresa criada com a finalidade de prestar consultoria, desenvolver e implementar soluções em diversos segmentos da tecnologia e infra-estrutura, ofertando aos seus clientes serviços com total qualidade, segurança e otimização de investimento.
+Inovação, é a principal proposta da Cavaletti Soluções em Engenharia. Uma empresa que tem como finalidade prestar consultoria, desenvolver e implementar soluções em diversos segmentos da tecnologia e infra-estrutura, ofertando aos seus clientes serviços com total qualidade, segurança e otimização de investimento.
 
-Nosso leque de atendimento ao mercado se estende desde a pessoa física a grandes corporações, com a mesma qualidade e imparcialidade.
+Nosso atendimento se estende desde a pessoa física a grandes corporações, com a mesma qualidade e imparcialidade.
 
 ## Missão
 
@@ -21,8 +21,6 @@ Alcançar a liderança, respeito do mercado e expandir sua atuação mantendo, r
 ## Valores
 
 Nossos valores apóiam nossa Missão e Visão, sustentando nossos Princípios Empresariais assim como nossos Princípios de Conduta.
-
-Nossos valores são aquelas qualidades que nos distinguem, nos orientam e dão estímulos a nossas vidas.
 
 O Trabalho deixa de ser aquela atividade obrigatória e passa a ser o sentimento de bem servir aos outros e expor o melhor de nossos profissionais.
 
