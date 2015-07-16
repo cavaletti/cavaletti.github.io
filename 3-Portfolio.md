@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: Portfólio
-permalink: /3-Portfólio/
+permalink: /3-Portfolio/
 ---
 
 #### Execução de mais de 1200 Projetos de Implantação de Estação Rádio Base (RBS) pela Ericsson Gestão de Serviços (EGS).
