@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Empresa
 permalink: /1-Empresa/
