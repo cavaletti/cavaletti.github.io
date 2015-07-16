@@ -6,7 +6,7 @@ permalink: /2-Atuacao/
 
 ## Serviços
 
-Devido às diferentes necessidades de nossos clientes, nossa empresa se preparou para atender de diversas formas o mercado, sendo possível realizar atividades específicas, dentro dos segmentos atuates, a execução completa "Turn Key" de um projeto.
+Devido às diferentes necessidades de nossos clientes, nossa empresa se preparou para atender de diversas formas o mercado, sendo possível realizar atividades específicas, dentro dos segmentos atuantes, a execução completa "Turn Key" de um projeto.
 
 Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de projetos.
 
