@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Últimas Notícias
+title: Ãšltimas NotÃ­cias
 permalink: /6-Ultimas Noticias/
 ---
 
