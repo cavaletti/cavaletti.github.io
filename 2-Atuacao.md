@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Atuação
+title: Atuacao
 permalink: /2-Atuacao/
 ---
 
@@ -20,18 +20,20 @@ Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de 
 
 ## Tendências e Inovações Atuantes:
 
-- Automação Rural 
-- Infrestrutura Rural
+
 ![](/images/2-Servicos/IAR.png)
 
-- Eficiência Energética
+
+
 ![](/images/2-Servicos/MGEE.png)
 
-- Eficiência Hidrica
+
 ![](/images/2-Servicos/EH.png)
 
-- Microgeração de Energia
+
+
 ![](/images/2-Servicos/MGEE.png)
 
-- Galpão Modular
+
+
 ![](/images/2-Servicos/GM.png)
