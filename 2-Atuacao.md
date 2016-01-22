@@ -23,11 +23,15 @@ Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de 
 - Automação Rural 
 - Infrestrutura Rural
 ![](/images/2-Atuacao/IAR.png)
+
 - Eficiência Energética
 ![](/images/2-Atuacao/MGEE.png)
+
 - Eficiência Hidrica
 ![](/images/2-Atuacao/EH.png)
+
 - Microgeração de Energia
 ![](/images/2-Atuacao/MGEE.png)
+
 - Galpão Modular
 ![](/images/2-Atuacao/GM.png)
