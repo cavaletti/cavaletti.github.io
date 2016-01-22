@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: Atuacao
+title: Atuação
 permalink: /2-Atuacao/
 ---
 
@@ -21,19 +21,14 @@ Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de 
 ## Tendências e Inovações Atuantes:
 
 
-![](/images/2-Servicos/IAR.png)
+![](/images/2-Atuacao/IAR.png)
 
 
 
-![](/images/2-Servicos/MGEE.png)
+![](/images/2-Atuacao/MGEE.png)
 
 
-![](/images/2-Servicos/EH.png)
+![](/images/2-Atuacao/EH.png)
 
 
-
-![](/images/2-Servicos/MGEE.png)
-
-
-
-![](/images/2-Servicos/GM.png)
+![](/images/2-Atuacao/GM.png)
