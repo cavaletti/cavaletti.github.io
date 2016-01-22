@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Atuação
 permalink: /2-Atuacao/
@@ -32,3 +32,4 @@ Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de 
 
 
 ![](/images/2-Atuacao/GM.png)
+
