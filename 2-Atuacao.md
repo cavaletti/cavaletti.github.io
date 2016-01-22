@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Atuação
 permalink: /2-Atuacao/
