@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Atuação
 permalink: /2-Atuacao/
@@ -17,4 +17,13 @@ Dessa forma, fornecemos treinamento, consultoria, gerenciamento e execução de 
  - Engenharia Civil
  - Engenharia Elétrica
  - Engenharia de Telecomunicações
+
+## Tendências e Inovações Atuantes:
+
+- Automação Rural (/images/2-Atuacao/IAR.png)
+- Infrestrutura Rural
+- Eficiência Energética (/images/2-Atuacao/MGEE.png)
+- Eficiência Hidrica  (/images/2-Atuacao/EH.png)
+- Microgeração de Energia  (/images/2-Atuacao/MGEE.png)
+
 
