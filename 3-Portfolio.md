@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Portfólio
 permalink: /3-Portfolio/
