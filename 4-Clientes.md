@@ -18,4 +18,3 @@ permalink: /4-Clientes/
 
 ![http://br.nec.com/](/images/4-Clientes/Nec-Logo.jpg)
 
-![https://www.alcatel-lucent.com/](/images/4-Clientes/Alcatel-Lucent.png)
